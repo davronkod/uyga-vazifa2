@@ -1,0 +1,135 @@
+body {
+    background-color: #dcdbdb;
+}
+
+.oq {
+    width: 250px;
+    height: 633px;
+    background-color: #ffffff;
+}
+
+.bi-list-columns-reverse {
+    margin-left: 50px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.po {
+    margin-left: 75px;
+    position: absolute;
+    margin-top: 17px;
+    font-weight: 600;
+}
+
+hr {
+    width: 248px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 1px;
+}
+
+.uder {
+    width: 245px;
+    height: 40px;
+    background-color: rgba(208, 228, 248, 0.778);
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 2px;
+    border: 1px solid transparent;
+    color: dodgerblue;
+    font-size: 18px;
+    transition: .5s;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.bi-list-task {
+    margin-left: -150px;
+    font-size: 18px;
+}
+
+span {
+    margin-left: 10px;
+}
+
+.uder:hover {
+    background-color: transparent;
+    color: dodgerblue;
+    border: 1px solid rgba(208, 228, 248, 0.778);
+    transition: .5s;
+}
+
+.u {
+    position: absolute;
+    margin-top: -610px;
+    margin-left: 300px;
+    color: grey;
+}
+
+.c {
+    color: black;
+    font-weight: 600;
+}
+
+.o {
+    position: absolute;
+    margin-top: -570px;
+    margin-left: 300px;
+    color: grey;
+}
+
+.p {
+    color: black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.a {
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    color: black;
+}
+
+.pi {
+    width: 1000px;
+    height: 500px;
+    background-color: white;
+    margin-left: 310px;
+    position: absolute;
+    margin-top: -520px;
+    border-radius: 10px;
+}
+
+.qa {
+    width: 900px;
+    height: 35px;
+    margin-left: 350px;
+    position: absolute;
+    margin-top: -200px;
+    background-color: transparent;
+    border: 1px dashed dodgerblue;
+    cursor: pointer;
+    color: dodgerblue;
+}
+
+.qaa {
+    margin-left: 1210px;
+    width: 80px;
+    height: 30px;
+    position: absolute;
+    margin-top: -80px;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.qaa:hover {
+    background-color: transparent;
+    border: 1px solid dodgerblue;
+    color: dodgerblue;
+    transition: .5s;
+}
